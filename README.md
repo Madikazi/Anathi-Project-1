@@ -37,7 +37,7 @@ This repository contains academic and practical projects focused on:
 - F1-Score
 
 ## 📄 Author
-Anathi  
+Anathi Madikazi
 BSc / Applied Statistics & Data Science
 
 ---
